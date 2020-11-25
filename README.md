@@ -1,6 +1,6 @@
 # numerical-analysis
 Numerical analysis of partial differential equations, the following topics are treated:
-- Discretization errors with finite differentiable terms
+- Discretization errors in numerical computing with finite differentiable terms.
 - Solutions on uniform and nonuniform mesh.
 - Error convergence with respect to the mesh size.
 - Solve poisson equations with FD, FVM, FEM.

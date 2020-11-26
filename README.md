@@ -10,6 +10,7 @@ Numerical analysis of partial differential equations, the following topics are t
 
 ### Finite volume method solution of Poisson equation
 ![Image text](https://raw.githubusercontent.com/YuchenZhu/numerical-analysis/master/img/fvm.png)
+<img src="https://raw.githubusercontent.com/YuchenZhu/numerical-analysis/master/img/fvm.png" width=800>
 ### Solution of thermal diffusion equation
 ![Image text](https://raw.githubusercontent.com/YuchenZhu/numerical-analysis/master/img/diffusion.png)
 ### Solution of thermal wave equation

@@ -18,4 +18,4 @@ Numerical analysis of partial differential equations, the following topics are t
 <img src="https://github.com/YuchenZhu/numerical-analysis/blob/master/img/wave.png" width=800> 
 
 ### Solution of 2D Fisher equation
-<img src="https://raw.githubusercontent.com/YuchenZhu/numerical-analysis/master/img/fisher.png" width=800> 
+<img src="https://github.com/YuchenZhu/numerical-analysis/blob/master/img/Fisher.png" width=800> 

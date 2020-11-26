@@ -9,10 +9,10 @@ Numerical analysis of partial differential equations, the following topics are t
 - Application to solve thermal diffusion equation, wave equation, 2D Fisher equation.
 
 ### Finite volume method solution of Poisson equation
-<img src="https://raw.githubusercontent.com/YuchenZhu/numerical-analysis/master/img/fvm.png" width=800>
+<img src="https://raw.githubusercontent.com/YuchenZhu/numerical-analysis/master/img/fvm.png" width=800> 
 ### Solution of thermal diffusion equation
-<img src="https://raw.githubusercontent.com/YuchenZhu/numerical-analysis/master/img/diffusion.png" width=800>
+<img src="https://raw.githubusercontent.com/YuchenZhu/numerical-analysis/master/img/diffusion.png" width=800> 
 ### Solution of thermal wave equation
-<img src="https://github.com/YuchenZhu/numerical-analysis/blob/master/img/wave.png" width=800>
+<img src="https://github.com/YuchenZhu/numerical-analysis/blob/master/img/wave.png" width=800> 
 ### Solution of 2D Fisher equation
-<img src="https://raw.githubusercontent.com/YuchenZhu/numerical-analysis/master/img/fisher.png" width=800>
+<img src="https://raw.githubusercontent.com/YuchenZhu/numerical-analysis/master/img/fisher.png" width=800> 

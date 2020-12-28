@@ -14,7 +14,7 @@ Numerical analysis of partial differential equations, the following topics are t
 ### Solution of thermal diffusion equation
 <img src="https://raw.githubusercontent.com/YuchenZhu/numerical-analysis/master/img/diffusion.png" width=800> 
 
-### Solution of thermal wave equation
+### Solution of wave equation
 <img src="https://github.com/YuchenZhu/numerical-analysis/blob/master/img/wave.png" width=800> 
 
 ### Solution of 2D Fisher equation
